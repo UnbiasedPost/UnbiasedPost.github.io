@@ -2,7 +2,7 @@ name: Depoly My Page
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build-test-deploy:
